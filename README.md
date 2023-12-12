@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshvakude&label=Profile%20views&color=0e75b6&style=flat" alt="sureshvakude" /></p>
 - 💬 Ask me about **DSA, Cpp, Full Stack and Software development.**<br>
 - 📫 How to reach me **sureshvakude8906@gmail.com**<br>
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wJvHiVVyb2FwsbQ1i-x6cncYAhRIaGjm/view?usp=sharing](https://drive.google.com/file/d/1wJvHiVVyb2FwsbQ1i-x6cncYAhRIaGjm/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wJvHiVVyb2FwsbQ1i-x6cncYAhRIaGjm/view?usp=sharing]
 
 <h2>About Me :book: </h2>
 
